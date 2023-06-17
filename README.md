@@ -1,4 +1,4 @@
-# Pigz - Projeto para Processo Seletivo
+# Skills - Projeto em React Native que adiciona skills em uma flatlist.
 
 Este repositório contém o código-fonte e as imagens do projeto Skills.
 
