@@ -1,22 +1,15 @@
 # Pigz - Projeto para Processo Seletivo
 
-Este repositório contém o código-fonte e as imagens do projeto Pigz, desenvolvido para um processo seletivo.
+Este repositório contém o código-fonte e as imagens do projeto Skills.
 
 ## Demonstração
 
-LINK PARA BAIXAR O APK => 
-<a href="https://github.com/AlexandreFelipeBuch/Pigz/raw/main/image/app-release.apk">Clique Baixar o aplicativo</a>
-
-Para efetuar o login no app basta colocar qualquer email e senha a validação verifica se o formato do email é valido e se foi digitado algo no campo senha!
-
-Aqui estão as capturas de tela do aplicativo Pigz:
+Aqui estão as capturas de tela do aplicativo Skills:
 
 <div align="center">
-  <img alt="Tela de Pré-Carregamento" src="./image/Preload.png" />
-  <img alt="Tela de Login" src="./image/Signin.png" />
-  <img alt="Tela Inicial" src="./image/Home.png" />
-  <img alt="Tela de Entrega" src="./image/delivery.png" />
-   <img alt="Tela de Perfil" src="./image/Profile.png" />
+  <img alt="01" src="./image/img01.png" />
+  <img alt="02" src="./image/img02.png" />
+  <img alt="03" src="./image/img03.png" />
 </div>
 
 ## Tecnologias utilizadas
@@ -24,4 +17,3 @@ Aqui estão as capturas de tela do aplicativo Pigz:
 - React Native
 - CSS
 - JavaScript
-
